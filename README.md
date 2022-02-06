@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohammedaslamps
+- 👋 Hi, I’m mohammedaslamps
 - 👀 I’m interested in python programming, solving problems.
 - 🌱 I’m currently learning Django,SQL server,MySQL,Javascript and AWS.
 - 💞️ I’m looking to collaborate on future technologies.
